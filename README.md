@@ -1,5 +1,6 @@
 # Sales-Dashboard-Walmart-Using-Excel-
 <img width="929" height="608" alt="walle mart" src="https://github.com/user-attachments/assets/601e5f02-6818-4cec-9c7d-024ae47cd24f" />
+
 Walmart Sales Dashboard
 📌 Project Overview
 
