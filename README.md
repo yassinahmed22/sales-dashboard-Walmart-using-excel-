@@ -1,7 +1,5 @@
 # Sales-Dashboard-Walmart-Using-Excel-
-fi<img width="929" height="608" alt="walle mart" src="https://github.com/user-attachments/assets/601e5f02-6818-4cec-9c7d-024ae47cd24f" />
-Walmart Dataset This 
-le contains the raw transactional data for a retail environment (likely Walmart-related). It is a structured dataset with 3,203 records and the following 10 columns:
+<img width="929" height="608" alt="walle mart" src="https://github.com/user-attachments/assets/601e5f02-6818-4cec-9c7d-024ae47cd24f" />
 Walmart Sales Dashboard
 📌 Project Overview
 
